@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working Banking domain as Technical Architecture <br>I'm currently learning Web3/blockcahin <br>
+I'm currently working in Banking domain as Technical Architecture <br>learning Web3/blockcahin <br>
 
 
 ## 🌐 Socials:
